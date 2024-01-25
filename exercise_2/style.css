@@ -1,0 +1,18 @@
+#teamList {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: purple;
+}
+
+body {
+    background-color: rgb(61, 96, 96);
+}
+
+h1 {
+    color: brown;
+    background-color: aqua;
+}
+
+li {
+    background-color: aqua;
+    border-radius: 20px;
+}

@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#randomUserBtn {
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    color: chartreuse;
+    background-color: darkkhaki;
+    padding: 5rem;
+}
